@@ -20,7 +20,7 @@ I think there are 2 industries which are going to become crucial in the next few
 
 
 ## &#x1f; My recent Medium Articles
-[![Article] (https://github-readme-medium-recent-article.vercel.app/medium/@jobyid/0)](https://jobyid.medium.com)
+[![Article](https://github-readme-medium-recent-article.vercel.app/medium/@jobyid/0)](https://jobyid.medium.com)
  
 
 ## Languages and frameworks
