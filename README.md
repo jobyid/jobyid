@@ -1,2 +1,43 @@
-# jobyid
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=synthwave&layout=socrates)
+
+## &#x1f; About Me
+
+I'm a developer, entrepreneur, AI engineer and pen tester.
+I started my working life as a professional cyclist and was lucky enough to race all over the world and perhaps the pinnacle of my career was the 2002 Commonwealth Games, where I represented Wales.
+After retiring from cycling I worked in the City of London as a Stockbroker, primarily focused on small cap investments. I have continued my interest in finance, and still trade my own account.
+
+After moving on from stockbroking, I worked in film before launching my first business which was a film and TV production company. I then went on to start a Rock Climbing business and Surfing business. It was during this time that I started coding, initially writing iOS apps, then some ethical hacking before staring the [Strive School](https://strive.school) to learn AI engineering. 
+
+I think there are 2 industries which are going to become crucial in the next few years, they are AI and cyber security. Through developing my skills in pen testing and AI I hope to be able to make contributions to both these industries. 
+
+## &#x1f4c8; GitHub Stats
+
+[![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+## &#x1f; Stack Overflow Stats 
+
+[![Joby StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7301801&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
+
+
+## &#x1f; My recent Medium Articles
+[![Article] (https://github-readme-medium-recent-article.vercel.app/medium/@jobyid/0)](https://jobyid.medium.com)
  
+
+## Languages and frameworks
+[![ios] (https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
+[![python] (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![swift] (https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
+[![bootstrap] (https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![mongodb] (https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+
+
+## &#x1f; Socials 
+[![Joby Twitter] (https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jobyid)
+[![Joby Instagram] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jobyid)
+[![Joby Instagram] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobyi)
+[![Joby Instagram] (https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jobyid.medium.com)
+
+
