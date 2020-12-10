@@ -19,7 +19,7 @@ I think there are 2 industries which are going to become crucial in the next few
 
 ## &#x1f; Stack Overflow Stats 
 
-[![Joby StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7301801&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Joby StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7301801&layout=compact)](https://stackoverflow.com/users/7301801/joby)
 
 
 ## &#x1f; My recent Medium Articles
@@ -27,11 +27,11 @@ I think there are 2 industries which are going to become crucial in the next few
  
 
 ## Languages and frameworks
-[![ios] (https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
-[![python] (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![swift] (https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
-[![bootstrap] (https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![mongodb] (https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+![ios] (https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![python] (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![swift] (https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![bootstrap] (https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![mongodb] (https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## &#x1f; Socials 
