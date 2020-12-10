@@ -12,10 +12,7 @@ I think there are 2 industries which are going to become crucial in the next few
 
 ## &#x1f4c8; GitHub Stats
 
-[![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## &#x1f; Stack Overflow Stats 
 
@@ -37,7 +34,7 @@ I think there are 2 industries which are going to become crucial in the next few
 ## &#x1f; Socials 
 [![Joby Twitter] (https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jobyid)
 [![Joby Instagram] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jobyid)
-[![Joby Instagram] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobyi)
-[![Joby Instagram] (https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jobyid.medium.com)
+[![Joby Linkedin] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobyi)
+[![Joby Medium] (https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jobyid.medium.com)
 
 
