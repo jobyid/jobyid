@@ -19,7 +19,7 @@ I think there are 2 industries which are going to become crucial in the next few
 
 **🐱 My Github Data** 
 
-> 🏆 215 Contributions in the Year 2021
+> 🏆 217 Contributions in the Year 2021
  > 
 > 📦 71.3 kB Used in Github's Storage 
  > 
