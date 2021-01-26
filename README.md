@@ -15,6 +15,77 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 215 Contributions in the Year 2021
+ > 
+> 📦 71.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    75 commits     █████████░░░░░░░░░░░░░░░░   36.59% 
+🌆 Daytime    54 commits     ██████░░░░░░░░░░░░░░░░░░░   26.34% 
+🌃 Evening    76 commits     █████████░░░░░░░░░░░░░░░░   37.07% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       33 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
+Tuesday      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+Wednesday    41 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Thursday     25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Friday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+Saturday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Sunday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Guernsey
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
+Swift                    5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
+Jupyter Notebook         4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jobyid/jobyid/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
