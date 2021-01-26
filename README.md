@@ -1,4 +1,4 @@
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=synthwave&layout=socrates)
+
 
 ## &#x1f; About Me
 
@@ -13,6 +13,10 @@ I think there are 2 industries which are going to become crucial in the next few
 ## &#x1f4c8; GitHub Stats
 
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## &#x1f; Stack Overflow Stats 
 
