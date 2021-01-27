@@ -15,8 +15,20 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
+**🐱 My Github Data** 
+
+> 🏆 219 Contributions in the Year 2021
+ > 
+> 📦 71.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -46,16 +58,16 @@ Sunday       28 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Guernsey
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharmEdu               2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+KNN_from_scratch         2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -67,6 +79,12 @@ Swift                    5 repos             ███████░░░░�
 Jupyter Notebook         4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jobyid/jobyid/main/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 
