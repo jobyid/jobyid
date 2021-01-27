@@ -17,18 +17,6 @@ I think there are 2 industries which are going to become crucial in the next few
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 219 Contributions in the Year 2021
- > 
-> 📦 71.3 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -80,10 +68,6 @@ Jupyter Notebook         4 repos             ██████░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/jobyid/jobyid/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
