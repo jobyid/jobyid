@@ -25,7 +25,7 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-125-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,16 +56,23 @@ Sunday       28 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Guernsey
 
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.0%
+Python                   5 hrs 19 mins       ████████████████████████░   99.47% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-PyCharmEdu               2 mins              █████████████████████████   100.0%
+PyCharm                  5 hrs 6 mins        ███████████████████████░░   95.33% 
+PyCharmEdu               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.67%
 
 🐱‍💻 Projects: 
-KNN_from_scratch         2 mins              █████████████████████████   100.0%
+StriveSchool             4 hrs 50 mins       ██████████████████████░░░   90.58% 
+KNN_from_scratch         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+codility                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.0%
+Mac                      5 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
