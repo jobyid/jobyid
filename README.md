@@ -25,7 +25,7 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,21 +56,21 @@ Sunday       37 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Guernsey
 
 💬 Programming Languages: 
-Rust                     5 hrs 36 mins       ████████████████░░░░░░░░░   66.34% 
-JavaScript               2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.21% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+Rust                     4 hrs 2 mins        █████████████████░░░░░░░░   69.4% 
+JavaScript               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   29.94% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  8 hrs 26 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 50 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-myepicproject            6 hrs 43 mins       ████████████████████░░░░░   79.66% 
-near-lotto               1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34%
+myepicproject            4 hrs 7 mins        █████████████████░░░░░░░░   70.57% 
+near-lotto               1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.43%
 
 💻 Operating System: 
-Mac                      8 hrs 26 mins       █████████████████████████   100.0%
+Mac                      5 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -87,7 +87,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
 
 
