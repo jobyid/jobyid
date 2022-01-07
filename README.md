@@ -25,7 +25,7 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,21 +56,22 @@ Sunday       32 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Guernsey
 
 💬 Programming Languages: 
-JavaScript               25 mins             █████████████░░░░░░░░░░░░   53.63% 
-JSON                     19 mins             ██████████░░░░░░░░░░░░░░░   41.92% 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
+JavaScript               45 mins             ████████████████░░░░░░░░░   66.43% 
+JSON                     20 mins             ███████░░░░░░░░░░░░░░░░░░   29.42% 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.0%
+VS Code                  1 hr 8 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-save-the-world           28 mins             ███████████████░░░░░░░░░░   60.97% 
-buildspace-dao-starter   17 mins             █████████░░░░░░░░░░░░░░░░   37.3% 
-sol-pred-pool-front-repli0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
+save-the-world           28 mins             ██████████░░░░░░░░░░░░░░░   41.74% 
+VlidatorDAO              21 mins             ████████░░░░░░░░░░░░░░░░░   31.54% 
+buildspace-dao-starter   17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53% 
+sol-pred-pool-front-repli0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.0%
+Mac                      1 hr 8 mins         █████████████████████████   100.0%
 
 ```
 
@@ -87,7 +88,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2022
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
 
 
