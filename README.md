@@ -27,7 +27,7 @@ I think there are 2 industries which are going to become crucial in the next few
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm an Early 🐤** 
 
@@ -84,7 +84,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2022 00:44:04 UTC
+ Last Updated on 12/06/2022 00:46:28 UTC
 <!--END_SECTION:waka-->
 
 
