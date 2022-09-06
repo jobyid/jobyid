@@ -25,9 +25,51 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    134 commits    █████████░░░░░░░░░░░░░░░░   36.81% 
+🌆 Daytime    168 commits    ███████████░░░░░░░░░░░░░░   46.15% 
+🌃 Evening    62 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.03% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       93 commits     ██████░░░░░░░░░░░░░░░░░░░   25.55% 
+Tuesday      60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
+Wednesday    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Thursday     58 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
+Friday       79 commits     █████░░░░░░░░░░░░░░░░░░░░   21.7% 
+Saturday     11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02% 
+Sunday       11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Guernsey
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 
 **I Mostly Code in Python** 
 
@@ -42,7 +84,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 00:58:51 UTC
+ Last Updated on 06/09/2022 00:55:37 UTC
 <!--END_SECTION:waka-->
 
 
