@@ -27,7 +27,7 @@ I think there are 2 industries which are going to become crucial in the next few
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **I Mostly Code in Python** 
 
@@ -42,7 +42,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 00:53:34 UTC
+ Last Updated on 15/09/2022 00:58:46 UTC
 <!--END_SECTION:waka-->
 
 
