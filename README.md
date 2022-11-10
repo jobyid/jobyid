@@ -29,48 +29,6 @@ I think there are 2 industries which are going to become crucial in the next few
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    85 commits     ███████░░░░░░░░░░░░░░░░░░   31.48% 
-🌆 Daytime    139 commits    ████████████░░░░░░░░░░░░░   51.48% 
-🌃 Evening    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
-Tuesday      54 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Wednesday    55 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37% 
-Thursday     48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
-Friday       50 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
-Sunday       9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Guernsey
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -84,7 +42,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 00:50:25 UTC
+ Last Updated on 10/11/2022 00:52:10 UTC
 <!--END_SECTION:waka-->
 
 
