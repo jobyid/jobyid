@@ -25,22 +25,63 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2027%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1298 commits        ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌆 Daytime                1624 commits        ██████████░░░░░░░░░░░░░░░   41.07 % 
+🌃 Evening                1032 commits        ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   843 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Tuesday                  669 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Thursday                 641 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Friday                   657 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Saturday                 282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Sunday                   216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Guernsey
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            ██████████░░░░░░░░░░░░░░░   40.24 % 
-JavaScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Jupyter Notebook         13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Python                   34 repos            ██████████░░░░░░░░░░░░░░░   40.96 % 
+JavaScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Jupyter Notebook         13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 
 
 
 
- Last Updated on 04/12/2023 00:40:12 UTC
+ Last Updated on 05/12/2023 00:41:07 UTC
 <!--END_SECTION:waka-->
 
 
