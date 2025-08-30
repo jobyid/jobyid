@@ -25,48 +25,7 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2027%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2462 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌆 Daytime                3141 commits        ███████████░░░░░░░░░░░░░░   42.07 % 
-🌃 Evening                1864 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1679 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Tuesday                  1176 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Wednesday                1065 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Thursday                 1139 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   1166 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Saturday                 725 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   517 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Guernsey
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **I Mostly Code in Python** 
 
@@ -81,7 +40,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 01:01:20 UTC
+ Last Updated on 30/08/2025 00:58:15 UTC
 <!--END_SECTION:waka-->
 
 
