@@ -25,48 +25,7 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3234 commits        ████████░░░░░░░░░░░░░░░░░   33.41 % 
-🌆 Daytime                4223 commits        ███████████░░░░░░░░░░░░░░   43.63 % 
-🌃 Evening                2222 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2034 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Tuesday                  1650 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Wednesday                1440 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Thursday                 1477 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Friday                   1498 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Saturday                 915 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Sunday                   665 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Guernsey
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -81,7 +40,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 01:05:06 UTC
+ Last Updated on 16/11/2025 01:09:41 UTC
 <!--END_SECTION:waka-->
 
 
