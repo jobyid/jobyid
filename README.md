@@ -25,48 +25,7 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1520 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-🌆 Daytime                2521 commits        ████████████░░░░░░░░░░░░░   46.27 % 
-🌃 Evening                1407 commits        ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   967 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Tuesday                  893 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Wednesday                756 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Thursday                 816 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Friday                   953 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Saturday                 516 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Sunday                   547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Guernsey
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -81,7 +40,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 02:13:19 UTC
+ Last Updated on 07/06/2026 02:39:23 UTC
 <!--END_SECTION:waka-->
 
 
