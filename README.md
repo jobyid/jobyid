@@ -27,45 +27,6 @@ I think there are 2 industries which are going to become crucial in the next few
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1673 commits        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-🌆 Daytime                2865 commits        ████████████░░░░░░░░░░░░░   46.92 % 
-🌃 Evening                1568 commits        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1070 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Tuesday                  969 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Wednesday                855 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Thursday                 923 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Friday                   1059 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Saturday                 593 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Guernsey
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +40,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:51:33 UTC
+ Last Updated on 25/07/2026 01:51:18 UTC
 <!--END_SECTION:waka-->
 
 
