@@ -25,54 +25,7 @@ I think there are 2 industries which are going to become crucial in the next few
 [![Joby's github stats](https://github-readme-stats.vercel.app/api?username=jobyid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobyid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2051%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1699 commits        ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-🌆 Daytime                2957 commits        ████████████░░░░░░░░░░░░░   47.31 % 
-🌃 Evening                1594 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1109 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Tuesday                  1007 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Wednesday                872 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Thursday                 927 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Friday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Saturday                 608 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Sunday                   651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Guernsey
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -87,7 +40,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:44:50 UTC
+ Last Updated on 07/08/2026 02:10:20 UTC
 <!--END_SECTION:waka-->
 
 
